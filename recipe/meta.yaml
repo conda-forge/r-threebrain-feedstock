@@ -80,7 +80,7 @@ about:
     analyze 'iEEG' data by Magnotti, Wang, and Beauchamp (2020, 
     <doi:10.1016/j.neuroimage.2020.117341>). Please check 
     'citation("threeBrain")' for details.
-  license_family: MPL
+  license_family: MOZILLA
   license_file:
     - LICENSE
 

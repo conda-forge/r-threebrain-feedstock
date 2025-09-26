@@ -5,20 +5,22 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-threebrain-fe
 
 Home: https://dipterix.org/threeBrain/ https://github.com/dipterix/threeBrain
 
-Package license: GPL-3.0-only
+Package license: MPL-2.0
 
-Summary: A fast, interactive cross-platform, and easy to share 'WebGL'-based 3D brain viewer
-that visualizes 'FreeSurfer' and/or 'AFNI/SUMA' surfaces. The viewer widget can
-be either standalone or embedded into 'R-shiny' applications. The standalone version
-only require a web browser with 'WebGL2' support (for example, 'Chrome', 'Firefox',
-'Safari'), and can be inserted into any websites. The 'R-shiny' support allows the
-3D viewer to be dynamically generated from reactive user inputs. This feature has
-been fully adopted by 'RAVE' <https://openwetware.org/wiki/RAVE>, an interactive
-toolbox to analyze 'iEEG' data. Documentation about 'threeBrain' is provided by
-<https://dipterix.org/threeBrain/> and several vignettes included in this package.
-To cite the package, please check our 'NeuroImage' paper by Magnotti, Wang, and
-Beauchamp (2020, <doi:10.1016/j.neuroimage.2020.117341>), or see 'citation("threeBrain")'
-for details.
+Summary: A fast, interactive cross-platform, and easy to share
+'WebGL'-based 3D brain viewer that visualizes 'FreeSurfer' and/or
+'AFNI/SUMA' surfaces. The viewer widget can be either standalone or
+embedded into 'R-shiny' applications. The standalone version only require
+a web browser with 'WebGL2' support (for example, 'Chrome', 'Firefox',
+'Safari'), and can be inserted into any websites. The 'R-shiny'
+support allows the 3D viewer to be dynamically generated from reactive user
+inputs. Please check the publication by Wang, Magnotti, Zhang,
+and Beauchamp (2023, <doi:10.1523/ENEURO.0328-23.2023>) for electrode
+localization. This viewer has been fully adopted by 'RAVE'
+<https://openwetware.org/wiki/RAVE>, an interactive toolbox to
+analyze 'iEEG' data by Magnotti, Wang, and Beauchamp (2020,
+<doi:10.1016/j.neuroimage.2020.117341>). Please check
+'citation("threeBrain")' for details.
 
 
 Current build status
